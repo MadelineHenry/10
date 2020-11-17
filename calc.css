@@ -9,27 +9,27 @@ body {
     grid-template-columns: repeat(4, 50px);
     grid-template-rows: minmax(100px, auto) repeat(5, 30px);
     grid-column-gap: 10px;
-    grid-row-gap: 20px;
+    grid-row-gap: 15px;
     justify-content: center;
     align-content: center;
     padding: 10px 0;
-    border: 1px solid #333;
-    border-radius: 10px;
-    box-shadow: 0 0 60px #333;
-    background-color: #ccc;
+    border: 1.5px solid rgb(39, 54, 43);
+    border-radius: 5px;
+    box-shadow: 0 0 60px rgb(39, 54, 43);
+    background-color: rgb(195, 206, 196);
 }
 
-.para {
+.paragraphs {
     grid-column: 1 /  span 4;
     text-align: right;
     padding-right: 20px;
     font-size: 30px;
     border: 1px solid black;
-    border-radius: 20px;
+    border-radius: 5px;
     background-color: #eee;
 }
 
-.p {
+.p1 {
     font-size: 24px;
 }
 
@@ -38,28 +38,28 @@ body {
     color: #666;
 }
 
-.btn {
+.button {
     border: 1px solid black;
-    border-radius: 10px;
+    border-radius: 5px;
     padding: 5px;
     text-align: center;
     cursor: pointer;
     background-color: #eee;
 }
 
-.btn:nth-child(2),
-.btn:nth-child(3),
-.btn:nth-child(4),
-.btn:nth-child(5),
-.btn:nth-child(9),
-.btn:nth-child(13),
-.btn:nth-child(17),
-.btn:nth-child(21) {
-    background-color: #333;
+.button:nth-child(2),
+.button:nth-child(3),
+.button:nth-child(4),
+.button:nth-child(5),
+.button:nth-child(9),
+.button:nth-child(13),
+.button:nth-child(17),
+.button:nth-child(21) {
+    background-color:rgb(39, 54, 43);
     color: #fff;
 }
 
 .btn:nth-child(20) {
-    background-color: #145bc5;
+    background-color: #3a485c;
     color: #fff;
 }
