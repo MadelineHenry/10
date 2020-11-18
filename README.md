@@ -4,17 +4,28 @@
 
 Creation of a basic web calculator ...
 
+## Project infos 
+
+- **Duration**: 2-3 days
+- **Deadline**: 18 novembre 2020, 19:00
+- **Team challenge**: solo 
+
 ## What is this project about :grey_question:
 
 This is a web development exercise carried out with the BECODE training to learn various aspects and coding techniques. Here there will be very little HTML, CSS according to everyone's preferences and mainly JavaScript.Entrez ici les 
+
+## Objectif
+
+- Generate a calculator with JS
+- Use JS to calculate basic operations
 
 ### Pre-requisite :bowtie:
 
 What you need to get started ...
 
-- basics in HTML
-- basics in CSS
-- basics in JavaScript
+- basics in **HTML**
+- basics in **CSS**
+- basics in **JavaScript**
 - Top work mates or a good ability to do internet research on your own :muscle: 
 
 ## What did I use?
@@ -45,10 +56,9 @@ It is important to understand the subtleties of language JavaScript so I advise 
 Learn about the structure, the synthase of language and learning is in practice so start again and do not lose hope. 
 
 ## Visual
+[Calculator](https://madelinehenry.github.io/10-calculator/)
 
 ![image](https://github.com/madelinehenry/10-calculator/blob/main//img/calculatorWeb.png)
-
-https://madelinehenry.github.io/10-calculator/
  
 
 ## Auteurs
