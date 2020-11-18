@@ -1,6 +1,6 @@
 # The web calculator
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge]https://forthebadge.com/images/badges/validated-html5.svg](http://forthebadge.com) [![forthebadge]https://forthebadge.com/images/badges/made-with-javascript.svg](http://forthebadge.com) [![forthebadge]https://forthebadge.com/images/badges/uses-css.svg](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)
 
 Creation of a basic web calculator ...
 
@@ -48,11 +48,11 @@ Learn about the structure, the synthase of language and learning is in practice 
 
 ![image](/img/calculator web.png)
 
-https://MadelineHenry.github.io/10-calculator/
+https://madelinehenry.github.io/10-calculator/
  
 
 ## Auteurs
-* **Madeline** _alias_ [@MadelineHenry](https://https://madelinehenry.github.io/)
+* **Madeline** _alias_ [@MadelineHenry](https://github.com/MadelineHenry)
 
 With the help of the group 5 :gift_heart:
 Thanks again to them!
