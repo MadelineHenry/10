@@ -46,7 +46,7 @@ Learn about the structure, the synthase of language and learning is in practice 
 
 ## Visual
 
-![image](https://github.com/madelinehenry/10-calculator/img/calculator web.png)
+![image](https://github.com/madelinehenry/10-calculator/img/calculatorWeb.png)
 
 https://madelinehenry.github.io/10-calculator/
  
