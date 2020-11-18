@@ -30,12 +30,12 @@ body {
 }
 
 .p1 {
-    font-size: 24px;
+    font-size: 16px;
+    color: #666;
 }
 
 .p2 {
-    font-size: 16px;
-    color: #666;
+    font-size: 24px;
 }
 
 .button {
@@ -45,6 +45,44 @@ body {
     text-align: center;
     cursor: pointer;
     background-color: #eee;
+}
+
+.button:hover{
+    color:white;
+    background-color: rgb(39, 54, 43);
+}
+
+.button:nth-child(2):hover {
+    color: rgb(39, 54, 43);
+    background-color: white;
+}
+.button:nth-child(3):hover {
+    color: rgb(39, 54, 43);
+    background-color: white;
+}
+.button:nth-child(4):hover {
+    color: rgb(39, 54, 43);
+    background-color: white;
+}
+.button:nth-child(5):hover {
+    color: rgb(39, 54, 43);
+    background-color: white;
+}
+.button:nth-child(9):hover {
+    color: rgb(39, 54, 43);
+    background-color: white;
+}
+.button:nth-child(13):hover {
+    color: rgb(39, 54, 43);
+    background-color: white;
+}
+.button:nth-child(17):hover {
+    color: rgb(39, 54, 43);
+    background-color: white;
+}
+.button:nth-child(21):hover {
+    color: rgb(39, 54, 43);
+    background-color: white;
 }
 
 .button:nth-child(2),
@@ -59,7 +97,11 @@ body {
     color: #fff;
 }
 
-.btn:nth-child(20) {
-    background-color: #3a485c;
-    color: #fff;
+.button:nth-child(20) {
+    color: rgb(39, 54, 43);
+    background-color: white;
+}
+.button:nth-child(20):hover {
+    color:white;
+    background-color: rgb(39, 54, 43);
 }

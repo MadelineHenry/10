@@ -12,8 +12,8 @@ for(let i of buttons){
         }
         if (i.textContent !== "AC" && i.textContent !== "="){
             if (i.textContent == "%"){
-                p1.textContent += "%" + safeEval(String(p1.textContent)) / 100;
-                p1.textContent += safeEval(String(p1.textContent)) / 100; 
+                p2.textContent = "%" + safeEval(String(p1.textContent)) / 100;
+                p1.textContent = safeEval(String(p1.textContent)) / 100; 
             } else {
                 p1.textContent += String(i.textContent);
                 p2.textContent += " " +String(i.textContent);
@@ -22,14 +22,8 @@ for(let i of buttons){
             p1.textContent = "0";
             p2.textContent = "0";
         } else {
-            p1.textContent = safeEval(string(p1.textcontent));
-            p2.textContent += "=" + safeEval(String(p1.textcontent));
+            p2.textContent = safeEval(String(p1.textContent));
+            p1.textContent += "=" + safeEval(String(p1.textContent));
         }
-    })
+    })    
 }
-
-document.body.addEventListener("keypress", (e) =>{
-    if (e.code == "Enter"){
-        
-    }
-})
