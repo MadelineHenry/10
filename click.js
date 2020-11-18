@@ -3,9 +3,11 @@ function safeEval(str){
   };
   
 const buttons = document.querySelectorAll(".button");
+let buttonclick = false;
 
 for(let i of buttons){
     i.addEventListener("click", () => {
+        p2.textContent = "";
         if (p1.textContent == 0){
             p1.textContent = "";
             p2.textContent = "";
@@ -23,7 +25,17 @@ for(let i of buttons){
             p2.textContent = "0";
         } else {
             p2.textContent = safeEval(String(p1.textContent));
-            p1.textContent += "=" + safeEval(String(p1.textContent));
+            p1.textContent += "=" + safeEval(String(p1.textContent));   
+        }
+        if (i.textContent == "=" && buttonclick == false){
+            buttonClick = true
         }
     })    
 }
+
+document.body.addEventListener("keypress", (e) =>{
+    console.log(e)
+    if (e.key == "1"){
+        alert("touche1appuyer")
+    }
+})
