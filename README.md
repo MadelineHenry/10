@@ -28,12 +28,12 @@ What you need to get started ...
 - the loops
 etc.
 
-## Strengths
+## Strength
 
 - I learned intensively through this exercise and these difficulties.
 - The result is rather nice, when you have never done this before in your life and the coding is all new to you.
 
-## Weaknesses
+## Weaknesse
 
 - I didn't have a basic knowledge of JavaSript ...:disappointed:
 So it was hard for me to know which way to go, sometimes it seemed like Chinese.
@@ -46,7 +46,7 @@ Learn about the structure, the synthase of language and learning is in practice 
 
 ## Visual
 
-![image](/img/calculator web.png)
+![image](https://github.com/madelinehenry/10-calculator/img/calculator web.png)
 
 https://madelinehenry.github.io/10-calculator/
  
