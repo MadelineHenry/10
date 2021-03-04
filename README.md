@@ -56,7 +56,7 @@ It is important to understand the subtleties of language JavaScript so I advise 
 Learn about the structure, the synthase of language and learning is in practice so start again and do not lose hope. 
 
 ## Visual
-[Calculator](https://madelinehenry.github.io/10-calculator/.)
+[Github Page](https://madelinehenry.github.io/10-Calculator/)
 
 ![image](https://github.com/madelinehenry/10-calculator/blob/main//img/calculatorWeb.png)
  
